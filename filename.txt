@@ -1,0 +1,15 @@
+ #include<stdio.h>
+ int main()
+ {
+    int a = 10;
+	int b = 15;
+	int c = 30;
+	
+	 a = b+c;
+	 z = a+b+c;
+     { 
+        printf("a/n");
+        printf("z/n");	 
+  	 }
+		
+ }
